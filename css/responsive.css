@@ -1,0 +1,212 @@
+@media screen and (max-width: 1799px){
+    
+    .ourservice-bg{
+        top: -27%;
+        width: 46%;
+    }
+    .our-service-con p{
+        max-width: 75%;
+    }
+}
+
+@media screen and (max-width: 1600px){
+    .ourservice-bg{
+        width: 42%;
+    }
+    .work-second-right p{
+        max-width: 100%;
+    }
+}
+@media screen and (max-width:1300px){
+    .ourservice-bg{
+        width:44%;
+        top:-12%;
+    }
+}
+ 
+@media screen and (max-width:1199px){
+    .service-inner-main h3{
+        font-size:16px;
+    }
+    .service-inner-main p{
+        font-size:15px;
+    }
+}
+@media screen and (max-width:991px){
+    .main-header .navbar-light .navbar-brand img {
+        width: 170px;
+    }
+    .banner-contain-main h2{
+        color: #353535;
+    }
+    .banner-contain-main p{
+        color: #353535;
+        opacity: 0.8;
+        max-width: 100%;
+    }
+    .second-sec-heading h2{
+        font-size: 27px;
+        position: relative;
+        top: 15px;
+    }
+    .banner-element-3 .element-3-rel:after{
+        bottom: -32%;
+    }
+    .image-main-area.aos-init.aos-animate {
+        padding: 30px;
+    }
+    .content-area h2 span{
+        display: inline;
+    }
+    .image-main-area {
+        min-height: 270px;
+    }
+    .process-content p{
+        max-width: 100%;
+        color: #353535;
+        opacity: 0.8;
+    }
+    .process-content h2{
+        color: #353535;
+    }
+    .process-content{
+        text-align: center;
+        position: relative;
+        top: 30px;
+    }
+    .second-sec-heading{
+        padding-bottom: 20px;
+    }
+    .blank-square{
+        height: 400px;
+    }
+    .process-btn{
+    cursor: pointer;
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(228,36,42,1)), color-stop(100%, rgba(255,128,0,1)));
+    background: -webkit-linear-gradient(left, rgba(228,36,42,1) 0%, rgba(255,128,0,1) 100%);
+    background: -o-linear-gradient(left, rgba(228,36,42,1) 0%, rgba(255,128,0,1) 100%);
+    background: -ms-linear-gradient(left, rgba(228,36,42,1) 0%, rgba(255,128,0,1) 100%);
+    background: linear-gradient(to right, rgba(228,36,42,1) 0%, rgba(255,128,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e4242a', endColorstr='#ff8000', GradientType=1 );
+    }
+    .foot-contact{
+        padding-top: 15px;
+    }
+    .foot-links p a{
+        margin: 0 14px 0 0;
+    }
+    .banner-img-main { 
+        top: 0%;
+        width: 100%; 
+    }
+    .banner-contain-main h2 {
+        font-weight: 600;
+        color: #000;
+        font-size: 40px;
+        margin-bottom: 25px;
+        padding-top: 66px;
+    }
+    .foot-contact p:last-child{
+        margin-bottom: 30px;
+    }
+    .service-content-main{
+        padding: 5% 0 0 0;
+    }
+    .ourservice-bg {
+        width: 57%;
+        top: 0;
+    }
+    .service-inner-main h3 {
+        font-size: 20px;
+    }
+    .service-inner-main p {
+        font-size: 16px;
+    }
+    .how-we-work-content h2{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .how-we-work-content p{
+        max-width:100%;
+    }
+}
+@media screen and (min-width:992px) and (max-width:1200px){
+    .banner-contain-main h2{
+        color: #353535;
+        font-size: 50px;
+        margin-bottom: 40px;
+    }
+    .banner-contain-main p{
+        color: #353535;
+        opacity: 0.8;
+        max-width: 100%;
+    }
+    .image-main-area.aos-init.aos-animate {
+        min-height: 400px;
+    }
+}
+
+@media screen and (max-width:767px){
+    .ourservice-bg {
+        width: 100%;
+        top: 26%;
+    }
+    .our-service-ele img{
+        max-width: 80%;
+    }
+    .round-shap{
+        display:none;
+    }
+    .how-we-work-main{
+        background: #f4f4f4;
+    }
+    .how-we-work-bg {
+        width: 85%;
+        top: 20%;
+        z-index: -1;
+    }
+    .we-work-element img{
+        max-width: 50%;
+    }
+    .we-work-image img{
+        max-width: 50%;
+    }
+    .work-second-section{
+        padding: 19% 0 0;
+    }
+    .work-second-right{
+        padding: 60px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 575px){
+    .second-sec-heading h2{
+        font-size: 20px;
+    }
+    .ourservice-bg{
+        top:36%;
+    }
+    .our-service-con p{
+        max-width: 100%;
+    }
+    .how-we-work-bg{
+        width: 100%;
+        top:30%;
+    }
+}
+
+@media screen and (max-width:400px){
+    .our-service-con h2{
+        font-size: 30px;
+        margin-bottom: 20px; 
+    }
+    .how-we-work-bg{
+        top:50%;
+    }
+    .work-second-inner p span{
+        display: inline-block;
+    }
+    .work-second-inner{
+        padding: 15% 0;
+    }
+}
